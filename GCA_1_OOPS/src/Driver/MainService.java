@@ -1,4 +1,9 @@
-package Departments;
+package Driver;
+
+import Departments.AdminDepartment;
+import Departments.HrDepartment;
+import Departments.SuperDepartment;
+import Departments.TechDepartment;
 
 public class MainService {
 
@@ -34,3 +39,4 @@ public class MainService {
 	}
 
 }
+
